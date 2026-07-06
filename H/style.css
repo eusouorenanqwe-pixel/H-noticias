@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(212, 241, 232);
+}
+.Titulo {
+    font-family: Impact;
+    font-weight: 500;
+    background-color: red;
+    border-radius: 16px;
+    padding: 10px;  
+}
+p {
+    font-family: geneva;
+    font-size: 15px;
+}
+.hbone {
+    width: 300px;
+}
+.hataque {
+    width: 300px;
+}
+.hmachucado {
+    width: 300px;
+}
+.hpcd {
+    width: 300px;
+}
